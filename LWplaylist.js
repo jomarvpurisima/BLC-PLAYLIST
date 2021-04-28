@@ -1,39 +1,50 @@
 { "videos" : [
   {
     "title":"Lovely Writer Episode 1",
-    "url":"//dood.so/e/r75q5cqif9uk19f50su15gos4a07emxc"
+  "url":"//dood.so/e/r75q5cqif9uk19f50su15gos4a07emxc"
   },
   {
-    "title":"Lovely Writer Episode 2",
-    "url":"//dood.so/e/dugnarug75p8r45ty6hwxqzee8nou8sy"
+    "title":"We Are Dental Technicians",
+    "url":"//www.youtube.com/embed/kqSUmWMmO5w"
   },
   {
-    "title":"Lovely Writer Episode 3",
-    "url":"//dood.so/e/mxkfpnbl0f8au9iqysqjynxaafyt5lm1"
+    "title":"Shatter Your Doubts with the Sledgehammer Test",
+    "url":"//www.youtube.com/embed/pYkwcehadxo"
   },
   {
-    "title":"Lovely Writer Episode 4",
-    "url":"//dood.so/e/lrlpg012rjucup2hn5zz3fkr9rksux33"
+    "title":"BruxZir Solid Zirconia vs. PFM: Gravity Bites",
+    "url":"//www.youtube.com/embed/TOmOXKMnirw"
   },
   {
-    "title":"Lovely Writer Episode 5",
-    "url":"//dood.so/e/o8m0uivb3fhw7qxdag5b05hihvwdro7j"
+    "title":"Using BruxZir<sup>&reg;</sup> Crowns To Mask Tetracycline & Correct Edge-To-Edge Bite",
+    "url":"//www.youtube.com/embed/qFXMJTxrWds"
   },
   {
-    "title":"Lovely Writer Episode 6",
-    "url":"//dood.so/e/bm1mk7tlwiw4jeood1smpgsbsqjg87hv"
+    "title":"BruxZir<sup>&reg;</sup>: How It Began",
+    "url":"//www.youtube.com/embed/2FJqZOI0ktM"
   },
   {
-    "title":"Lovely Writer Episode 7",
-    "url":"//dood.so/e/eynnny6db3056jqz59ilxlwofnjbg00f"
+    "title":"BruxZir<sup>&reg;</sup> Solid Zirconia Patient Education",
+    "url":"//www.youtube.com/embed/D4taHSdbP_w"
   },
   {
-    "title":"Lovely Writer Episode 8",
-    "url":"//dood.so/e/m5r0cwev8iyuvgbkx90otayad9ogwk9q"
+    "title":"Digital Impressions Utilizing Intra Oral Scanning Technology",
+    "url":"//www.youtube.com/embed/eWeXwb9TGFg"
   },
   {
-    "title":"Lovely Writer Episode 9",
-    "url":"//dood.so/e/0w2ckowwuepv12wmkd2izcdmx81uepca"
+    "title":"aveoTSD Patient Testimonial",
+    "url":"//www.youtube.com/embed/SBlb5SH2n1s"
   },
- 
+  {
+    "title":"2010 Tosoh Award Winner",
+    "url":"//www.youtube.com/embed/hUmcLizNJqM"
+  },
+  {
+    "title":"IOS FastScan Digital Impression & Modeling System",
+    "url":"//www.youtube.com/embed/09qKu_TI7b0"
+  },
+  {
+    "title":"Introduction to BruxZir Total Zirconia",
+    "url":"//www.youtube.com/embed/tUpp_DOY4Vw"
+  }
 ]}
